@@ -1,10 +1,10 @@
-# IGPP_ShortCourse_2022
+# IGPP_ShortCourse_2023
 
 To run the Jupyter notebooks of this repository online click the following link (may take some time to initialize the server):
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/heinerigel/IGPP_ShortCourse_2022/HEAD?urlpath=/tree/)
 
-### Short Course on *Computational Methods in Geophysics*, September 2023, Institute of Geophysics and Planetary Physics, SCRIPPS Institution of Oceanography, La Jolla, California
+### Short Course on *Computational Methods in Geophysics*, September 2023 (dates to be announced), Institute of Geophysics and Planetary Physics, SCRIPPS Institution of Oceanography, La Jolla, California
 
 Lecturer: Heiner Igel, LMU Munich
 
@@ -30,7 +30,7 @@ Lecturer: Heiner Igel, LMU Munich
 | Day 3, 10:30 |  1D elastic wave equation, heterogeneous models, convergence test |  Laptop | 
 |-|-|-|
 | Day 3, 14:00 |  Finite Volume and Discontinuous Galerkin Method, Numerical Fluxes |  Pencil/Paper | 
-| DAy 3, 15:30 | 1D wave equation with Discontinuous Galerkin Method, Final Discussion, Loose ends |  Laptop | 
+| Day 3, 15:30 | 1D wave equation with Discontinuous Galerkin Method, Final Discussion, Loose ends |  Laptop | 
 |-|-|-|
 
   
