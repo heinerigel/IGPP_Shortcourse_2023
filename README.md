@@ -2,7 +2,7 @@
 
 To run the Jupyter notebooks of this repository online click the following link (may take some time to initialize the server):
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/heinerigel/IGPP_ShortCourse_2022/HEAD?urlpath=/tree/)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/heinerigel/IGPP_ShortCourse_2023/HEAD?urlpath=/tree/)
 
 ### Short Course on *Computational Methods in Geophysics*, September 2023 (dates to be announced), Institute of Geophysics and Planetary Physics, SCRIPPS Institution of Oceanography, La Jolla, California
 
