@@ -4,7 +4,7 @@ To run the Jupyter notebooks of this repository online click the following link 
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/heinerigel/IGPP_ShortCourse_2023/HEAD?urlpath=/tree/)
 
-### Short Course on *Computational Methods in Geophysics*, September 2023 (dates to be announced), Institute of Geophysics and Planetary Physics, SCRIPPS Institution of Oceanography, La Jolla, California
+### Short Course on *Computational Methods in Geophysics*, October 2 and 4, 2023, Institute of Geophysics and Planetary Physics, SCRIPPS Institution of Oceanography, La Jolla, California
 
 Lecturer: Heiner Igel, LMU Munich
 
